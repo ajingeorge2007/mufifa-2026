@@ -149,7 +149,3 @@ I’m still early in my journey, but during μFIFA I want to connect with develo
 src="https://mulearn.org/embed/rank/ajinpgeorge@mulearn"
     width="400px">
 </img>
-
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
-    width="400px">
-</img>
